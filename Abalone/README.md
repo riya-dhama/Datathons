@@ -1,24 +1,24 @@
 # Abalone
 Determine the age of Abalone from the physical measurements
 
-### Context:
+## Context:
 
-- What is Abalon?
+ What is Abalon?
 
 Abalone is a common name for any of a group of small to very large sea snails, marine gastropod molluscs in the family Haliotidae.
 Other common names are ear shells, sea ears, and muttonfish or muttonshells in Australia, ormer in the UK, perlemoen in South Africa, and paua in New Zealand.
 
-### Objective :
+## Objective :
 Objective is to determine the age of Abalone from the physical measurements.
 (The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age.)
 
-### Evaluation Criteria
+## Evaluation Criteria
 Submissions are evaluated using Root-Mean-Squared-Error (RMSE).
 
-### About the Data
+## About the Data
 The data set has 9 columns which have information related to physical measurements of abalones and the number of rings (representing age)
 
-### Acknowledgement
+## Acknowledgement
 This dataset is downloaded from the UCI Machine Learning Repository.
 
 ## Structure : 
@@ -52,4 +52,6 @@ This dataset is downloaded from the UCI Machine Learning Repository.
 - Tried to reduce RMSE 
 - Tried to increase Test set Accuracy.              
 ### Task 8: Prediction on TEST DATA and Check RMSE of both model
-### Conclusion : XG Boost is giving least RMSE on Test data, ie It is more accurate in predicting age of Abalone from physical measurements.
+
+## Conclusion : 
+XG Boost is giving least RMSE on Test data, ie It is more accurate in predicting age of Abalone from physical measurements.
