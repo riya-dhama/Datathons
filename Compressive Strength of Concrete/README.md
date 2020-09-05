@@ -1,19 +1,19 @@
 # Compressive Strength of Concrete 
+Estimate Compressive Strength of Concrete
 
-
-### Context :
+## Context :
 Concrete is the most important material in civil engineering. The concrete compressive strength is a highly nonlinear function of age and ingredients. Compressive strength or compression strength is the capacity of a material or structure to withstand loads tending to reduce the size, as opposed to which withstands loads tending to elongate. In other words, compressive strength resists being pushed together, whereas tensile strength resists tension (being pulled apart). In the study of strength of materials, tensile strength, compressive strength, and shear strength can be analyzed independently.
 
-### Objective:
+## Objective:
 The objective is to build a machine learning model that would help Civil Engineers to estimate the compressive strength of the concrete and they can further take a decision whether the concrete should be used in their current project or not.
 
-### About the Data :
+## About the Data :
 The dataset has 9 columns which tell you different measurements related to the concrete.
 
-### Evaluation Criteria
+## Evaluation Criteria
 Submissions are evaluated using Root-Mean-Squared-Error (RMSE).
 
-### Acknowledgement
+## Acknowledgement
 This dataset has been sourced from the UCI Machine Learning Repository.
 
 ## Structure: 
@@ -43,5 +43,7 @@ This dataset has been sourced from the UCI Machine Learning Repository.
 ### Task 5: Used Hperparameter tunning , Grid-SeachCV in these model to :
 - Tried to reduce RMSE 
 - Tried to increase Test set Accuracy.                          
-### Task 7: Prediction on TEST DATA and Check RMSE of each model
-### Conclusion : XG Boost is giving least RMSE on Test data, ie It is more accurate in Estimating compressive strength of concrete.
+## Task 7: Prediction on TEST DATA and Check RMSE of each model
+
+# Conclusion :
+XG Boost is giving least RMSE on Test data, ie It is more accurate in Estimating compressive strength of concrete.
