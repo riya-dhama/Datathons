@@ -39,17 +39,17 @@ This dataset is downloaded from the UCI Machine Learning Repository.
 * Drop irrelevent columns
 
 ### Task 3: Splitting Training Dataset into Test and Train set 
-### Task 4: Train the model using RandomForest 
-             * Check accuracy and RMSE Value on Test and Train set
-             * Visualise Result by ploting the graph of Predicted Values of Train and Test Set            
+### Task 4: Train the model using RandomForest. 
+-  Check accuracy and RMSE Value on Test and Train set
+-  Visualise Result by ploting the graph of Predicted Values of Train and Test Set            
 ### Task 5: Used Hperparameter tunning in Random Forest:
-              * Tried to reduce RMSE 
-              * Tried to increase Test set Accuracy.            
+- Tried to reduce RMSE 
+- Tried to increase Test set Accuracy.            
 ### Task 6: Train the model using XG Boost 
-             * Check accuracy and RMSE Value on Test and Train set
-             * Visualise Result by ploting the graph of Predicted Values of Train and Test Set             
+- Check accuracy and RMSE Value on Test and Train set
+- Visualise Result by ploting the graph of Predicted Values of Train and Test Set             
 ### Task 7: Used Hperparameter tunning in XG Boost:
-              * Tried to reduce RMSE 
-              * Tried to increase Test set Accuracy.              
-### Task 8: Prediction on TEST DATA and Check RMSE of each model
+- Tried to reduce RMSE 
+- Tried to increase Test set Accuracy.              
+### Task 8: Prediction on TEST DATA and Check RMSE of both model
 ### Conclusion : XG Boost is giving least RMSE on Test data, ie It is more accurate in predicting age of Abalone from physical measurements.
