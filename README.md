@@ -12,12 +12,12 @@ Place to hone your data science problem-solving skills !! time to conquer the pr
 
 - Machine Learning: 
 
-   * <a href="https://github.com/riya-dhama/Datathons/tree/master/Abalone"> Abalone </a> : 
+   * <a href="https://github.com/riya-dhama/Datathons-Competitions/tree/master/Abalone"> Abalone </a> : 
     Determine the age of Abalone from the physical measurements 
       - Algoorithms Used : RandomForest, XG Boost
       - Result : Least RMSE Value on Test DataSet is 2.057884
     
-    * <a href="https://github.com/riya-dhama/Challenges/tree/master/Wine%20Quality"> Wine-Quality </a>: 
+    * <a href="https://github.com/riya-dhama/Datathons-Competitions/tree/master/Compressive%20Strength%20of%20Concrete"> Compressive Strength of Concrete </a>: 
     Estimate Compressive Strength of Concrete
        - Algorithm Used : RandomForest, Gradient Boost, XG Boost
        - Result : Least RMSE Value on Test DataSet is 3.92
