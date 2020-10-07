@@ -28,22 +28,22 @@ This dataset has been sourced from the UCI Machine Learning Repository.
 * Check the null values
 * Get Statistical Overview using describe()
 
-### Task 2:  Visualize the Data(EDA) & Data-preprocessing
+### Task 3:  Visualize the Data(EDA) & Data-preprocessing
 * For this dataset, I used a histogram, correlation matrix, pairplot()  using Seaborn & Matplotlib to visualize the data
 * Convert Textual Data and Analyse the categorical variable.
 * Drop irrelevent columns
 
-### Task 3: Splitting Training Dataset into Test and Train set 
-### Task 4: Train the model using Diffrent Ensemble technques:
+### Task 4: Splitting Training Dataset into Test and Train set 
+### Task 5: Train the model using Diffrent Ensemble technques:
 - Random Forest
 - Gradient Boost
 - XG Boost
-### Task 5: Check accuracy and RMSE Value on Test and Train set
-### Task 6: Visualise Result by ploting the graph of Predicted Values of Train and Test Set            
-### Task 5: Used Hperparameter tunning , Grid-SeachCV in these model to :
+### Task 6: Check accuracy and RMSE Value on Test and Train set
+### Task 7: Visualise Result by ploting the graph of Predicted Values of Train and Test Set            
+### Task 8: Used Hperparameter tunning , Grid-SeachCV in these model to :
 - Tried to reduce RMSE 
 - Tried to increase Test set Accuracy.                          
-### Task 7: Prediction on TEST DATA and Check RMSE of each model
+### Task 9: Prediction on TEST DATA and Check RMSE of each model
 
 # Conclusion :
 XG Boost is giving least RMSE on Test data, ie It is more accurate in Estimating compressive strength of concrete.
