@@ -1,4 +1,4 @@
-# Datathons
+# Datathons/Competitions/Hackathons
 Place to hone your data science problem-solving skills !! time to conquer the problems and shine !!
 
 ## Tools Used: 
@@ -10,7 +10,7 @@ Place to hone your data science problem-solving skills !! time to conquer the pr
 
 ## Context:
 
-- Machine Learning: 
+- Data-Sprints/Datathons: 
 
    * <a href="https://github.com/riya-dhama/Datathons-Competitions/tree/master/Abalone"> Abalone </a> : 
     Determine the age of Abalone from the physical measurements 
@@ -27,3 +27,8 @@ Place to hone your data science problem-solving skills !! time to conquer the pr
        - Algorithm Used : RandomForest, Gradient Boost, XG Boost
        - Result : Least RMSE Value on Test DataSet is 3.92
     
+- SDS Club Challenges: 
+
+   * <a href="https://github.com/riya-dhama/Datathons-Competitions/tree/master/Used%20Car%20Price"> Car Price  </a> : 
+    To determine the price of its used cars.
+      - Algoorithms Used : Linear Regression, Decision Tree, Random Forest
